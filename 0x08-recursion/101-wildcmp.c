@@ -1,10 +1,10 @@
 #include "holberton.h"
 
 /**
- * move_past_star - iterating asterisk
- * @s2: the second string
+ * move_past_star - Iterating asterisk
+ * @s2: Second string
  *
- * Return: pointer 
+ * Return: Pointer 
  */
 char *move_past_star(char *s2)
 {
@@ -15,9 +15,9 @@ char *move_past_star(char *s2)
 }
 
 /**
- * inception - makes magic a reality
- * @s1: first string
- * @s2: second string
+ * inception - Makes magic a reality
+ * @s1: First string
+ * @s2: Second string
  *
  * Return: 1 or 0
  */
@@ -34,9 +34,9 @@ int inception(char *s1, char *s2)
 }
 
 /**
- * wildcmp - comparing two strings
- * @s1: first string
- * @s2: second string
+ * wildcmp - Comparing two strings
+ * @s1: First string
+ * @s2: Second string
  *
  * Return: 1 or 0
  */
